@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1066379069205",
+    "project_id": "authapi10",
+    "storage_bucket": "authapi10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066379069205:android:a1969758b5f46a877c8b1c",
+        "android_client_info": {
+          "package_name": "com.example.allprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066379069205-vd5ll953ar2ecpftght5ro6u76f4b470.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjXk_yltQcRDyBgN7hC3bPBfzuecH9aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066379069205-vd5ll953ar2ecpftght5ro6u76f4b470.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066379069205-hcuhmqpapbo18470q5huo4bdtteo1t56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.allprac"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066379069205:android:fb368e29c4b9dd247c8b1c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066379069205-vd5ll953ar2ecpftght5ro6u76f4b470.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjXk_yltQcRDyBgN7hC3bPBfzuecH9aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066379069205-vd5ll953ar2ecpftght5ro6u76f4b470.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066379069205-hcuhmqpapbo18470q5huo4bdtteo1t56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.allprac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
